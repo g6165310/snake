@@ -1,29 +1,5 @@
-# snake
+# JS地下城挑戰-貪吃蛇
 
-## Project setup
-```
-npm install
-```
+## 攻略心得
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[心得](https://medium.com/@g6165310/js地下城挑戰-貪吃蛇-vue-278b8b32e622)
